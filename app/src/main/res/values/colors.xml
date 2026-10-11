@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
+    <!-- Light -->
+    <color name="primary">#FF4F46E5</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="primary_container">#FFE0E7FF</color>
+    <color name="on_primary_container">#FF1E1B4B</color>
+    <color name="secondary">#FF0D9488</color>
+    <color name="on_secondary">#FFFFFFFF</color>
+    <color name="background">#FFF5F6FA</color>
+    <color name="on_background">#FF1B1B1F</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="on_surface">#FF1B1B1F</color>
+    <color name="on_surface_variant">#FF5A5C66</color>
+    <color name="outline">#FFC4C6D0</color>
+
+    <!-- Dark -->
+    <color name="primary_dark">#FFA5B4FC</color>
+    <color name="on_primary_dark">#FF1E1B4B</color>
+    <color name="primary_container_dark">#FF312E81</color>
+    <color name="on_primary_container_dark">#FFE0E7FF</color>
+    <color name="secondary_dark">#FF5EEAD4</color>
+    <color name="on_secondary_dark">#FF00332E</color>
+    <color name="background_dark">#FF111318</color>
+    <color name="on_background_dark">#FFE3E2E6</color>
+    <color name="surface_dark">#FF1C1F26</color>
+    <color name="on_surface_dark">#FFE3E2E6</color>
+    <color name="on_surface_variant_dark">#FFC4C6D0</color>
+    <color name="outline_dark">#FF8E9099</color>
 </resources>

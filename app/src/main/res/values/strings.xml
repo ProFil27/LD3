@@ -1,3 +1,53 @@
 <resources>
-    <string name="app_name">erudys_LD3</string>
+    <string name="app_name">LD3 Komponentai</string>
+
+    <string name="title_header">Registracijos forma</string>
+    <string name="subtitle_header">Užpildykite laukus ir išsaugokite duomenis</string>
+
+    <string name="section_data">Duomenys</string>
+    <string name="section_datetime">Laikas ir data</string>
+    <string name="section_extra">Vieta ir patvirtinimas</string>
+
+    <string name="label_name">Pavadinimas</string>
+    <string name="label_department">Padalinys</string>
+    <string name="label_rating">Sudėtingumas</string>
+    <string name="label_time">Laikas:</string>
+    <string name="label_date">Data:</string>
+    <string name="label_city">Pasirinkite miestą</string>
+    <string name="label_register">Registruoti</string>
+    <string name="btn_save">Saugoti</string>
+
+    <string name="err_name">Įveskite pavadinimą</string>
+    <string name="toast_selected">Pasirinktas padalinys: %1$s</string>
+    <string name="snack_action">Patvirtinu, informacija teisinga</string>
+    <string name="msg_timeout">Laikas baigėsi, bandykite dar kartą išsaugoti duomenis</string>
+    <string name="msg_saved">Duomenys įrašyti sėkmingai: %1$s</string>
+    <string name="msg_save_error">Nepavyko įrašyti duomenų: %1$s</string>
+    <string name="yes">Taip</string>
+    <string name="no">Ne</string>
+
+    <string name="summary_format">Pavadinimas: %1$s; sudėtingumas: %2$d;\nLaikas: %3$s, data: %4$s\nPadalinys: %5$s; Miestas: %6$s\nRegistruoti: %7$s</string>
+
+    <string name="rating_content_description">Sudėtingumo vertinimas žvaigždutėmis</string>
+
+    <string-array name="departments">
+        <item>Mechanikos fakultetas</item>
+        <item>Mechanikos ir medžiagotyros laboratorija</item>
+        <item>Informatikos fakultetas</item>
+        <item>Elektronikos ir elektrotechnikos katedra</item>
+        <item>Statybos ir architektūros fakultetas</item>
+        <item>Matematikos ir gamtos mokslų fakultetas</item>
+        <item>Ekonomikos ir verslo fakultetas</item>
+        <item>Transporto inžinerijos katedra</item>
+    </string-array>
+
+    <string-array name="cities">
+        <item>Akmenė</item>
+        <item>Biržai</item>
+        <item>Kaunas</item>
+        <item>Klaipėda</item>
+        <item>Panevėžys</item>
+        <item>Šiauliai</item>
+        <item>Vilnius</item>
+    </string-array>
 </resources>
